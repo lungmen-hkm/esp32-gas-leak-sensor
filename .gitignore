@@ -1,3 +1,5 @@
 node_modules
 .next
 device-firmware-blynk
+device-firmware-esp8266
+device-firmware-esp32-devkit-v1

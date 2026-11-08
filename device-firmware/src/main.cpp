@@ -11,10 +11,10 @@ const char* pswd = MyPSWD;
 
 // --- Endpoint Domain ---
 const char* url = MyURL;
-const char* id = "ESP32-C3";
+const char* id = "DOIT-ESP32";
 
 // --- Pin Assignment ESP32-C3 ---
-#define mq2 0 
+#define mq2 33
 #define buzzer 3 
 #define led 4
 
